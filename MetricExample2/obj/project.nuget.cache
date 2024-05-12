@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "f9Td6S4WiI+A5OEM0KzrvbNMDL4QKmxe2EI/x6DQKLda0mM9kEmjGwBGxRGnKebCJVgggYECltHXLtoaazTWFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Inteli\\Documents\\GitHub\\Criando-metricas\\MetricExample2\\MetricExample2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Inteli\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.1\\system.diagnostics.diagnosticsource.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

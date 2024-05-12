@@ -1,0 +1,15 @@
+C:\Users\Inteli\Documents\GitHub\Criando-metricas\MetricExample1\bin\Debug\net8.0\MetricExample1.exe
+C:\Users\Inteli\Documents\GitHub\Criando-metricas\MetricExample1\bin\Debug\net8.0\MetricExample1.deps.json
+C:\Users\Inteli\Documents\GitHub\Criando-metricas\MetricExample1\bin\Debug\net8.0\MetricExample1.runtimeconfig.json
+C:\Users\Inteli\Documents\GitHub\Criando-metricas\MetricExample1\bin\Debug\net8.0\MetricExample1.dll
+C:\Users\Inteli\Documents\GitHub\Criando-metricas\MetricExample1\bin\Debug\net8.0\MetricExample1.pdb
+C:\Users\Inteli\Documents\GitHub\Criando-metricas\MetricExample1\obj\Debug\net8.0\MetricExample1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inteli\Documents\GitHub\Criando-metricas\MetricExample1\obj\Debug\net8.0\MetricExample1.AssemblyInfoInputs.cache
+C:\Users\Inteli\Documents\GitHub\Criando-metricas\MetricExample1\obj\Debug\net8.0\MetricExample1.AssemblyInfo.cs
+C:\Users\Inteli\Documents\GitHub\Criando-metricas\MetricExample1\obj\Debug\net8.0\MetricExample1.csproj.CoreCompileInputs.cache
+C:\Users\Inteli\Documents\GitHub\Criando-metricas\MetricExample1\obj\Debug\net8.0\MetricExample1.sourcelink.json
+C:\Users\Inteli\Documents\GitHub\Criando-metricas\MetricExample1\obj\Debug\net8.0\MetricExample1.dll
+C:\Users\Inteli\Documents\GitHub\Criando-metricas\MetricExample1\obj\Debug\net8.0\refint\MetricExample1.dll
+C:\Users\Inteli\Documents\GitHub\Criando-metricas\MetricExample1\obj\Debug\net8.0\MetricExample1.pdb
+C:\Users\Inteli\Documents\GitHub\Criando-metricas\MetricExample1\obj\Debug\net8.0\MetricExample1.genruntimeconfig.cache
+C:\Users\Inteli\Documents\GitHub\Criando-metricas\MetricExample1\obj\Debug\net8.0\ref\MetricExample1.dll
